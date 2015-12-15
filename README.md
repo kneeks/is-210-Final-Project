@@ -6,7 +6,8 @@ Name:
 John Brown
 
 Details:
-Construction worker, Goes to school online, loves to play video games, like sports, likes to have people over and meet new people
+Construction worker, Goes to school online, loves to play video games,
+like sports, likes to have people over and meet new people
 
 Goals:
 Seeking a roommate to help pay rent
@@ -15,7 +16,8 @@ Seeking a roommate to help pay rent
 
 ```
 Problem Scenarios:
-John Brown is seeking a roommate but he has a one problem. He does not have enough time in the day to hold interviews for potential candidates.
+John Brown is seeking a roommate but he has a one problem. He does not have
+enough time in the day to hold interviews for potential candidates.
 
 Current Alternatives:
 Phone interview on his days off and or during his lunch breaks.
@@ -26,9 +28,10 @@ Create a system that asks specific questions to people and record potential cand
 
 ### User Stories
 
-As John the student, I want to find a roommate so that I can afford rent. I am looking for candidates in order to potentially be my roommate. I am up to my neck with working overtime and maintaining school grades. I would like to set up a system that would eliminate me from wasting time interviewing people that I would not seem fit.
-Epics
-
+As John the student, I want to find a roommate so that I can afford rent. I am
+looking for candidates in order to potentially be my roommate. I am up to my
+neck with working overtime and maintaining school grades. I would like to set
+up a system that would eliminate me from wasting time interviewing people that I would not seem fit.
 
 ### Epics
 
