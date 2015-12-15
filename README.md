@@ -1,3 +1,8 @@
+### Roommate Survey
+
+This program prompts the user with questions. These questions are then
+used to detemine, if an applicant is an applicable candidate
+for being John Brown's roommate.
 
 ### Persona
 
@@ -32,7 +37,8 @@ candidate’s answers for John to view.
 As John the student, I want to find a roommate so that I can afford rent. I am
 looking for candidates in order to potentially be my roommate. I am up to my
 neck with working overtime and maintaining school grades. I would like to set
-up a system that would eliminate me from wasting time interviewing people that I would not seem fit.
+up a system that would eliminate me from wasting time interviewing people that I
+would not seem fit.
 
 ### Epics
 
