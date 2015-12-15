@@ -3,7 +3,7 @@
 """Asks question in order to acquire candidates for a roommate"""
 
 ERROR = ('Sorry, you did not meet the criteria.'
-        'Thank you for you time and good luck!')
+         'Thank you for you time and good luck!')
 COUNT = 0
 Q1 = 'What is your name? '
 Q2 = 'What is your phone number? '
@@ -30,15 +30,14 @@ if A3 == 'y' or A4 == 'y':
         else:
             pass
     if COUNT >= 3:
-        f = open('Candidates.txt', 'a')
-        f.write(('Name: {0}\nPhone Number: {1}\n{2}{3}\n{4}{5}\n{6}{7}\n'
-                '{8}{9}\n{10}{11}\n\n').format(A1, A2, Q3, A3,
-                                               Q4, A4, Q5, A5,
-                                               Q6, A6, Q7, A7))
-        f.close()
+        F = open('Candidates.txt', 'a')
+        F.write(('Name: {0}\nPhone Number: {1}\n{2}{3}\n{4}{5}\n{6}{7}\n'
+                 '{8}{9}\n{10}{11}\n\n').format(A1, A2, Q3, A3,
+                                                Q4, A4, Q5, A5,
+                                                Q6, A6, Q7, A7))
+        F.close()
         print '\n\n\nCongrats. You have been selected as a candidate!'
     else:
         print ERROR
 else:
     print ERROR
-
