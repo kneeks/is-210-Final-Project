@@ -1,8 +1,9 @@
 ### Roommate Survey
 
 This program prompts the user with questions. These questions are then
-used to detemine, if an applicant is an applicable candidate
-for being John Brown's roommate.
+used to detemine, if an applicant is an applicable candidate for
+being John Brown's roommate. Then creates a candidate.txt file for people
+who fit the criteria.
 
 ### Persona
 
