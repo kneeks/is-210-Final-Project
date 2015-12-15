@@ -23,7 +23,8 @@ Current Alternatives:
 Phone interview on his days off and or during his lunch breaks.
 
 Value Proposition:
-Create a system that asks specific questions to people and record potential candidate’s answers for John to view.
+Create a system that asks specific questions to people and record potential
+candidate’s answers for John to view.
 ```
 
 ### User Stories
@@ -35,7 +36,8 @@ up a system that would eliminate me from wasting time interviewing people that I
 
 ### Epics
 
-As John the student, I want applicants to answer questions so that I can get a list of potential candidates that meet my criteria. 
+As John the student, I want applicants to answer questions so that I can get a
+list of potential candidates that meet my criteria. 
 
 ### Acceptance Stories
 ```
